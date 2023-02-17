@@ -124,7 +124,7 @@ h1{font-size: 60px;
   }
   
   .stars {
-   background: black url("/imagem/stars.png") repeat;
+   background: black url("../imagem/stars.png") repeat;
    position: absolute;
       top: 0;
       bottom: 0;
@@ -137,7 +137,7 @@ h1{font-size: 60px;
   .twinkling{
       width:10000px;
       height: 100%;
-      background: transparent url("/imagem/twinkling.png") repeat;
+      background: transparent url("../imagem/twinkling.png") repeat;
       background-size: 1000px 1000px;
       position: absolute;
       right: 0;
@@ -156,7 +156,7 @@ h1{font-size: 60px;
   .clouds{
       width:10000px;
       height: 100%;
-      background: transparent url("/imagem/clouds.png") repeat;
+      background: transparent url("../imagem/clouds.png") repeat;
       background-size: 1000px 1000px;
       position: absolute;
       right: 0;
